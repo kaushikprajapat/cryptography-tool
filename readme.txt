@@ -33,7 +33,6 @@ Run the tool:
 Execute the script with Python:
 
 bash
-
 python your_script_name.py
 Replace your_script_name.py with the actual name of your Python file.
 
