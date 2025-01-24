@@ -12,7 +12,6 @@ To run this tool, you'll need to install the pycryptodome library. You can do th
 
 
 bash
-Copy code
 pip install pycryptodome
 Supported Operating Systems
 This tool is compatible with all major operating systems, including:
@@ -26,7 +25,6 @@ Clone the repository:
 
 
 bash
-Copy code
 git clone https://github.com/kaushikprajapat/cryptography-tool.git
 cd cryptography-tool
 Run the tool:
@@ -35,7 +33,7 @@ Run the tool:
 Execute the script with Python:
 
 bash
-Copy code
+
 python your_script_name.py
 Replace your_script_name.py with the actual name of your Python file.
 
